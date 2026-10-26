@@ -6,9 +6,12 @@
 
 <div align="center">
 
-![3D wordmark](https://www.gitskins.com/api/section/wordmark?username=verschhh&theme=aurora)
+![Profile banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=L%C3%A9onard%20Verschuere&fontSize=36&fontColor=ffffff&animation=fadeIn)
 
-![ASCII portrait](https://www.gitskins.com/api/section/portrait?username=verschhh&theme=aurora)
+```text
+> FULL-STACK PRODUCT ENGINEERING
+> Mobile  /  Backend  /  Blockchain  /  Data & ML  /  CI/CD
+```
 
 # Léonard Verschuere
 
@@ -119,10 +122,8 @@ At The Wallet Crew, led deployment of Apple Wallet and Google Wallet solutions f
 
 <div align="center">
 
-![GitHub stats](https://www.gitskins.com/api/section/stats?username=verschhh&theme=aurora)
-![Language stack](https://www.gitskins.com/api/section/stack?username=verschhh&theme=aurora)
-
-![Contribution activity](https://www.gitskins.com/api/section/heatmap?username=verschhh&theme=aurora&style=snake)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=verschhh&show_icons=true&hide_border=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=verschhh&layout=compact&hide_border=true&theme=tokyonight)
 
 </div>
 
