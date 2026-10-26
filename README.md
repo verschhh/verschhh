@@ -1,33 +1,149 @@
-<h1 align="center">Hi 👋, I'm Léonard</h1>
+<!--
+  Profile README for @verschhh
+  Inspired by GitSkins' "Wow profile" visual direction (3D wordmark + ASCII portrait).
+  Live visual embeds can be removed if you prefer a fully self-hosted README.
+-->
+
 <div align="center">
-  <h3>A result-driven Developer studying at Epitech Paris</h3> <img src="epitech logo.png" alt="Epitech Logo" width=35 height=30>
+
+![3D wordmark](https://www.gitskins.com/api/section/wordmark?username=verschhh&theme=aurora)
+
+![ASCII portrait](https://www.gitskins.com/api/section/portrait?username=verschhh&theme=aurora)
+
+# Léonard Verschuere
+
+### Software Engineer · Full-Stack Product Engineering
+
+**I build and ship products end to end — from architecture and APIs to mobile apps, integrations, and reliable production releases.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-verschhh-181717?style=for-the-badge&logo=github)](https://github.com/verschhh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardverschuere/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonard.verschuere@epitech.eu)
+
 </div>
 
-- 📍 Currently studying abroad in **Berlin 🇩🇪**
+---
 
-- 🌱 I’m currently learning **JavaScript and TypeScript**
+## About me
 
-- 📫 How to reach me **leonard.verschuere@epitech.eu**
+I'm a software engineer with a product mindset and experience delivering production software across mobile, backend, blockchain integrations, and deployment automation.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/l%C3%A9onardverschuere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-</p>
+- **Product engineering:** turning business needs into maintainable features and production-ready systems.
+- **Mobile & backend:** React Native / Expo apps, Node.js services, REST APIs, authentication, and relational data.
+- **Delivery & reliability:** CI/CD pipelines, release automation, production support, and incident resolution.
+- **Exploration:** blockchain infrastructure, quantitative market prediction, and machine-learning workflows.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+I studied Software Engineering at **Epitech** and completed additional studies in management and data science / machine learning. I'm based in France and open to relocation.
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+## What I work with
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<div align="center">
 
-<a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
+### App & Backend Engineering
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 
+### Data & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
 
+### Blockchain & Wallets
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=flat-square)
+![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white)
+![Alchemy](https://img.shields.io/badge/Alchemy-0C0C0C?style=flat-square)
 
-</a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+### DevOps & Delivery
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=flat-square)
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</div>
 
+## Selected work
+
+### Cachet — Full-stack product
+Designed and developed a production-ready full-stack application with a monorepo architecture.
+
+- Built backend services, database schema, authentication, and a mobile application.
+- Used **Node.js, React Native, PostgreSQL, and Supabase**.
+- Set up shared tooling, CI/CD workflows, and deployment automation.
+
+### Quant Market Prediction — Data / ML
+Built a quantitative market-prediction system during a hackathon.
+
+- Developed market-analysis pipelines and predictive models.
+- Worked with **Python, Pandas, NumPy, Scikit-learn, XGBoost, and TensorFlow**.
+- Iterated quickly under hackathon time constraints.
+
+### Automated Trading Bot
+Built a Python trading bot integrating the Binance API.
+
+- Implemented market-data retrieval, signal generation, and technical indicators.
+- Connected the analysis pipeline to automated order execution.
+
+### Wallet infrastructure & delivery
+At The Wallet Crew, led deployment of Apple Wallet and Google Wallet solutions from technical design through production rollout.
+
+- Automated Android and iOS build/release workflows with CI/CD.
+- Worked directly with enterprise customers on requirements, production troubleshooting, and successful deployments.
+- Coordinated engineering, product, and customer stakeholders across releases.
+
+## How I like to build
+
+- **Own the whole lifecycle:** design, implementation, deployment, and production support.
+- **Automate the repeatable:** make builds, releases, and developer workflows reliable.
+- **Build for maintainability:** clear architecture, shared tooling, and sensible interfaces.
+- **Stay product-minded:** keep technical decisions connected to real user and business needs.
+
+## GitHub activity
+
+<div align="center">
+
+![GitHub stats](https://www.gitskins.com/api/section/stats?username=verschhh&theme=aurora)
+![Language stack](https://www.gitskins.com/api/section/stack?username=verschhh&theme=aurora)
+
+![Contribution activity](https://www.gitskins.com/api/section/heatmap?username=verschhh&theme=aurora&style=snake)
+
+</div>
+
+## Languages
+
+- French — Native
+- English — C1
+- Spanish — B2
+
+## Let's connect
+
+I'm interested in building useful products, robust engineering systems, and teams that care about delivery quality.
+
+- **GitHub:** [@verschhh](https://github.com/verschhh)
+- **LinkedIn:** [linkedin.com/in/leonardverschuere](https://www.linkedin.com/in/leonardverschuere/)
+- **Email:** [leonard.verschuere@epitech.eu](mailto:leonard.verschuere@epitech.eu)
+
+---
+
+<div align="center">
+
+*Build thoughtfully. Ship reliably. Keep learning.*
+
+</div>
