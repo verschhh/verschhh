@@ -1,7 +1,7 @@
 <!--
   Profile README for @verschhh
-  Inspired by GitSkins' "Wow profile" visual direction (3D wordmark + ASCII portrait).
-  Live visual embeds can be removed if you prefer a fully self-hosted README.
+  Inspired by GitSkins' expressive profile-template direction, customized around product engineering.
+  The banner and GitHub stats use external image services.
 -->
 
 <div align="center">
